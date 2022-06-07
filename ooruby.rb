@@ -20,10 +20,3 @@ puts "la multiplicacion es de los tres numeros es: #{multiplicacion}"
 puts "----------------------------------------------------------------"
 puts "Gracias por usar la calculadora de ruby"
 
-if {}
-#
-elsif {}
-#
-else
-#
-end

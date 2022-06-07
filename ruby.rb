@@ -79,6 +79,11 @@ puts "y #{nombre2.capitalize} pagare el pasaje"
 
 
 print "Cual es tu nombre"   
-respuesta = gets.chomp
+respuesta= gets.chomp
 puts "Hola,#{respuesta}, ya estas listo para las vacaciones?"
+
+
+
+
+
 
